@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @CyforSkadi
 - 👀 I’m interested in automation
-- 🌱 I’m currently learning C++ programming
+- 🌱 I’m currently learning Python programming
